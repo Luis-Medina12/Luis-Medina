@@ -5,7 +5,7 @@
   - 📚 I am currently a Senior attending Arizona State University for my B.S. in Computer Science
   - 📚 I currently hold an Associate in Science Degree with an Emphasis in Computer Science
   - 🥅 My current goal is to transition to a Software Engineer role and slowly become a Full Stack Engineer
-  - ⚡ 3D Printing is the hobby I am currently obsessed with, with the occasional gaming session sprinkled in!
+  - ⚡ Most of my free time is spent 3D printing, playing video games, and hanging out with my wife!
   
 ### Tech Stack:
 ‎<img src="https://user-images.githubusercontent.com/69488378/220828145-3f695104-67d1-4ab6-906b-e2ca17c7f2ab.png" width="100" height="100">
