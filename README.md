@@ -3,7 +3,7 @@
 
   - 🏢 I currently work in the Property & Casualty Underwriting department at State Farm®
   - 📚 I am currently a Senior attending Arizona State University for my B.S. in Computer Science
-  - 📚 I currently hold an Associate in Science Degree with an Emphasis in Computer Science
+  - 📚 I currently hold an Associate in Science with an Emphasis in Computer Science
   - 🥅 My current goal is to transition to a Software Engineer role and slowly become a Full Stack Engineer
   - ⚡ Most of my free time is spent 3D printing, playing video games, and hanging out with my wife!
   
