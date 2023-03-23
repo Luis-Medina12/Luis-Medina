@@ -10,6 +10,7 @@
 ### Tech Stack:
 ‎<img src="https://user-images.githubusercontent.com/69488378/220828145-3f695104-67d1-4ab6-906b-e2ca17c7f2ab.png" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/69488378/220828205-27b30508-044c-4d9a-9635-4aaa3fb8d60b.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/69488378/227106942-73084780-56e8-4bc4-ab74-39de76a23e85.png" width="120" height="100">
 <img src="https://user-images.githubusercontent.com/69488378/220828298-c80eedeb-3f61-4873-8db9-687133730a84.png" width="100" height="100">‎
  
 ### Currently Reading:
