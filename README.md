@@ -1,5 +1,5 @@
 # Hey there! My name is Luis Medina 👋 
-### I am an Engineer at heart, passionate creator, tech enthusiast, and Marvel movie loving nerd!
+### I am an Engineer at heart, a passionate creator, a tech enthusiast, and a Marvel movie-loving nerd!
 
   - 🏢 I currently work in the Property & Casualty Underwriting department at State Farm®
   - 📚 I am a Senior attending Arizona State University for my B.S. in Computer Science
